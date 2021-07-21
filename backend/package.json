@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "nanoid": "^3.1.23",
     "nodemon": "^2.0.12",
     "socket.io": "^4.1.3"
   }
